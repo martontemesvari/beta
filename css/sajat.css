@@ -1,0 +1,20 @@
+.margin-top {
+    margin-top: 5%;
+}
+.margin-bottom {
+    margin-bottom: 5%;
+}
+#hatter {
+    background: url(../img/wall.jpg) no-repeat center center fixed;
+    background-size: cover;
+    flex: 1 0 auto;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+footer.page-footer {
+    margin-top: -20px;
+}
+
